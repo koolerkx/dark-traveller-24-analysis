@@ -1,0 +1,1126 @@
+{
+  "sd1-1@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "sd1-1@example.com",
+        "userName": "\u5357\u5340\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:35:06.177Z",
+        "createdAt": "2024-08-02T22:03:00.057Z",
+        "level": 3,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "sd1-1@example.com",
+        "userName": "\u5357\u5340\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:06:50.535Z",
+        "level": 3,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      }
+    ],
+    "level": 1,
+    "email": "sd1-1@example.com",
+    "upgradedPoints": ["1", "2"],
+    "name": "\u5357\u5340\u4e2d\u5fc31\u968a"
+  },
+  "sd1-2@example.com": {
+    "upgradedPoints": [],
+    "level": 1,
+    "email": "sd1-2@example.com",
+    "capturedPoints": [],
+    "name": "\u5357\u5340\u4e2d\u5fc32\u968a"
+  },
+  "skc-1@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:07:15.858Z",
+        "createdAt": "2024-08-02T20:22:21.223Z",
+        "level": 1,
+        "pointId": "xFldNrcu765eRZc2hrsn",
+        "pointName": "\u8056\u8449\u7406\u8afe\u5802"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:41:43.053Z",
+        "createdAt": "2024-08-02T20:24:01.956Z",
+        "level": 1,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:20:34.646Z",
+        "createdAt": "2024-08-02T20:25:48.348Z",
+        "level": 1,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:48:30.321Z",
+        "createdAt": "2024-08-02T20:27:43.036Z",
+        "level": 1,
+        "pointId": "xv6F5QsTKUVQasrDM5V5",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e00\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T20:58:14.060Z",
+        "createdAt": "2024-08-02T20:33:53.361Z",
+        "level": 1,
+        "pointId": "rSnhF4HYEnTG98p9E7To",
+        "pointName": "\u5929\u6c34\u570d\u516c\u5712\uff08\u897f\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T20:58:32.389Z",
+        "createdAt": "2024-08-02T20:35:10.285Z",
+        "level": 1,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T20:53:43.491Z",
+        "createdAt": "2024-08-02T20:47:34.026Z",
+        "level": 2,
+        "pointId": "zm9JjBWHejS6bInoC32d",
+        "pointName": "\u5929\u83ef\u5929\u6a4b\u6a13\u68af"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:17:46.594Z",
+        "createdAt": "2024-08-02T20:55:00.828Z",
+        "level": 2,
+        "pointId": "bCr9LBCAj1mIDzHk63Iz",
+        "pointName": "\u5929\u83ef\u6a4b"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:20:04.381Z",
+        "createdAt": "2024-08-02T20:57:54.213Z",
+        "level": 2,
+        "pointId": "cGkgDMMYwWfkNB0heYjM",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u56db\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:06:36.316Z",
+        "createdAt": "2024-08-02T21:03:33.040Z",
+        "level": 2,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:20:34.646Z",
+        "createdAt": "2024-08-02T21:05:00.925Z",
+        "level": 2,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:41:43.053Z",
+        "createdAt": "2024-08-02T21:06:26.192Z",
+        "level": 2,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:07:15.858Z",
+        "level": 2,
+        "pointId": "xFldNrcu765eRZc2hrsn",
+        "pointName": "\u8056\u8449\u7406\u8afe\u5802"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:20:34.646Z",
+        "createdAt": "2024-08-02T21:08:40.563Z",
+        "level": 2,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:48:30.321Z",
+        "createdAt": "2024-08-02T21:12:44.328Z",
+        "level": 2,
+        "pointId": "xv6F5QsTKUVQasrDM5V5",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e00\uff09"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T21:41:43.053Z",
+        "createdAt": "2024-08-02T21:20:54.754Z",
+        "level": 2,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:24:01.560Z",
+        "level": 2,
+        "pointId": "UvfG2gwfLek81y6K3u2D",
+        "pointName": "\u5609\u6e56\u65b0\u5317\u5546\u5834"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:30:48.224Z",
+        "level": 2,
+        "pointId": "2wd13TbtnVTB8OIHhRa4",
+        "pointName": "\u5929\u6c34\u570d\u904b\u52d5\u5834"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:26:55.806Z",
+        "createdAt": "2024-08-02T21:46:46.275Z",
+        "level": 2,
+        "pointId": "YvzEAhiBhJrOstmGXoH3",
+        "pointName": "\u5929\u69ae\u8def\u6771"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:13:59.701Z",
+        "createdAt": "2024-08-02T21:53:44.950Z",
+        "level": 2,
+        "pointId": "778jzmzKpOvgRHIHcHms",
+        "pointName": "\u9e97\u6e56\u5c45"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:03:00.057Z",
+        "createdAt": "2024-08-02T21:58:26.990Z",
+        "level": 2,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:06:50.535Z",
+        "createdAt": "2024-08-02T22:00:21.126Z",
+        "level": 2,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      },
+      {
+        "userId": "skc-1@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc31\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:06:50.843Z",
+        "level": 2,
+        "pointId": "1ZflGseWvmvEMDtj6YOq",
+        "pointName": "\u96b1\u85cf\u96c6\u5408\u9ede"
+      }
+    ],
+    "level": 1,
+    "email": "skc-1@example.com",
+    "upgradedPoints": ["4"],
+    "name": "\u5357\u8475\u4e2d\u5fc31\u968a"
+  },
+  "skc-2@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T20:35:10.285Z",
+        "createdAt": "2024-08-02T20:33:36.576Z",
+        "level": 1,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T20:51:29.331Z",
+        "level": 2,
+        "pointId": "stpbAJ0ixmFg8KELxSzz",
+        "pointName": "\u5929\u69ae\u8def\u897f"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:22:50.375Z",
+        "createdAt": "2024-08-02T20:55:35.043Z",
+        "level": 2,
+        "pointId": "IeOJr7CsyHXad2DUL3n4",
+        "pointName": "\u6822\u6167\u8c6a\u5ef7\u9580\u53e3"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T21:46:46.275Z",
+        "createdAt": "2024-08-02T20:59:07.445Z",
+        "level": 2,
+        "pointId": "YvzEAhiBhJrOstmGXoH3",
+        "pointName": "\u5929\u69ae\u8def\u6771"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:03:12.295Z",
+        "level": 2,
+        "pointId": "KDlGq7jkxmDLdBQusflu",
+        "pointName": "\u5929\u83ef\u8def\u8ff4\u65cb\u8655"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:05:02.578Z",
+        "level": 2,
+        "pointId": "YkBf4s7i1Q9vkKw6whxX",
+        "pointName": "T TOWN\u00a0\u505c\u8eca\u5834\u5916"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T21:24:03.402Z",
+        "createdAt": "2024-08-02T21:12:02.277Z",
+        "level": 2,
+        "pointId": "okz1iP0mtzm8Ng8w996H",
+        "pointName": "\u5929\u5bcc\u8f15\u9435\u7ad9"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T21:25:32.516Z",
+        "createdAt": "2024-08-02T21:13:38.253Z",
+        "level": 2,
+        "pointId": "Hkvtx3FpDQ0tscj3JFoD",
+        "pointName": "\u5929\u79c0\u8def\u5929\u6a4b"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T21:25:55.902Z",
+        "createdAt": "2024-08-02T21:16:33.675Z",
+        "level": 2,
+        "pointId": "lsMaDq30KZQTqVmLhypX",
+        "pointName": "\u5929\u5bcc\u82d1\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:18:34.461Z",
+        "level": 2,
+        "pointId": "hb8n1fRoYAoq98HCjsLM",
+        "pointName": "\u5929\u5bcc\u82d1\uff08\u4e00\uff09"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:24:05.436Z",
+        "level": 2,
+        "pointId": "9x7CivYV0uH4VTfNU3Gs",
+        "pointName": "\u5929\u79c0\u8db3\u7403\u5834"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:37:44.160Z",
+        "level": 2,
+        "pointId": "8y79Ng02zepSw4BROkmt",
+        "pointName": "\u6fd5\u5730\u516c\u5712\u55ae\u8eca\u96a7\u9053"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:47:34.150Z",
+        "level": 2,
+        "pointId": "45aLp8Tx5wGP606fx32M",
+        "pointName": "\u6167\u666f\u8ed2\u5df4\u58eb\u7ad9"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:53:49.592Z",
+        "level": 2,
+        "pointId": "KlBjSjUv2OjIMppFsvHq",
+        "pointName": "\u6fd5\u5730\u516c\u5712\u9580\u53e3"
+      },
+      {
+        "userId": "skc-2@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc32\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:56:04.014Z",
+        "level": 2,
+        "pointId": "2d52tp09iWfccGggsMH5",
+        "pointName": "\u6d41\u6d6e\u5c71\u6d88\u9632\u5c40"
+      }
+    ],
+    "level": 1,
+    "email": "skc-2@example.com",
+    "upgradedPoints": ["4"],
+    "name": "\u5357\u8475\u4e2d\u5fc32\u968a"
+  },
+  "skc-3@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:44:31.341Z",
+        "createdAt": "2024-08-02T20:27:48.160Z",
+        "level": 2,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:42:11.260Z",
+        "createdAt": "2024-08-02T20:29:51.988Z",
+        "level": 2,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:36:41.603Z",
+        "createdAt": "2024-08-02T20:33:09.584Z",
+        "level": 2,
+        "pointId": "cGkgDMMYwWfkNB0heYjM",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u56db\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:36:23.936Z",
+        "createdAt": "2024-08-02T20:36:07.846Z",
+        "level": 2,
+        "pointId": "5FuPRNNQxn2MpCc3QxSq",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u516d\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:27:32.959Z",
+        "createdAt": "2024-08-02T20:41:23.148Z",
+        "level": 2,
+        "pointId": "H3FVbUzD54nQ2qo9qS4I",
+        "pointName": "\u5929\u79c0\u6a4b"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:33:11.754Z",
+        "createdAt": "2024-08-02T20:44:50.689Z",
+        "level": 2,
+        "pointId": "Hkvtx3FpDQ0tscj3JFoD",
+        "pointName": "\u5929\u79c0\u8def\u5929\u6a4b"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:34:44.264Z",
+        "createdAt": "2024-08-02T20:50:19.949Z",
+        "level": 2,
+        "pointId": "okz1iP0mtzm8Ng8w996H",
+        "pointName": "\u5929\u5bcc\u8f15\u9435\u7ad9"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:25:55.902Z",
+        "createdAt": "2024-08-02T20:51:20.723Z",
+        "level": 2,
+        "pointId": "lsMaDq30KZQTqVmLhypX",
+        "pointName": "\u5929\u5bcc\u82d1\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:33:23.472Z",
+        "createdAt": "2024-08-02T21:09:45.157Z",
+        "level": 2,
+        "pointId": "Jyj6CjyjsJi2bCuGoJEh",
+        "pointName": "\u5929\u6046\u90a8"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:33:23.472Z",
+        "createdAt": "2024-08-02T21:20:00.795Z",
+        "level": 3,
+        "pointId": "Jyj6CjyjsJi2bCuGoJEh",
+        "pointName": "\u5929\u6046\u90a8"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:27:32.959Z",
+        "createdAt": "2024-08-02T21:23:07.697Z",
+        "level": 3,
+        "pointId": "H3FVbUzD54nQ2qo9qS4I",
+        "pointName": "\u5929\u79c0\u6a4b"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:34:44.264Z",
+        "createdAt": "2024-08-02T21:24:03.402Z",
+        "level": 3,
+        "pointId": "okz1iP0mtzm8Ng8w996H",
+        "pointName": "\u5929\u5bcc\u8f15\u9435\u7ad9"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:33:11.754Z",
+        "createdAt": "2024-08-02T21:25:32.516Z",
+        "level": 3,
+        "pointId": "Hkvtx3FpDQ0tscj3JFoD",
+        "pointName": "\u5929\u79c0\u8def\u5929\u6a4b"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:25:55.902Z",
+        "level": 3,
+        "pointId": "lsMaDq30KZQTqVmLhypX",
+        "pointName": "\u5929\u5bcc\u82d1\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T21:36:23.936Z",
+        "createdAt": "2024-08-02T21:34:23.792Z",
+        "level": 3,
+        "pointId": "5FuPRNNQxn2MpCc3QxSq",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u516d\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:36:41.603Z",
+        "level": 3,
+        "pointId": "cGkgDMMYwWfkNB0heYjM",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u56db\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:42:11.260Z",
+        "level": 3,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:44:31.341Z",
+        "level": 3,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-3@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc33\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:48:30.321Z",
+        "level": 3,
+        "pointId": "xv6F5QsTKUVQasrDM5V5",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e00\uff09"
+      }
+    ],
+    "level": 1,
+    "email": "skc-3@example.com",
+    "upgradedPoints": ["1", "3"],
+    "name": "\u5357\u8475\u4e2d\u5fc33\u968a"
+  },
+  "skc-4@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T20:22:21.223Z",
+        "createdAt": "2024-08-02T20:19:06.128Z",
+        "level": 1,
+        "pointId": "xFldNrcu765eRZc2hrsn",
+        "pointName": "\u8056\u8449\u7406\u8afe\u5802"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:41:43.053Z",
+        "createdAt": "2024-08-02T20:20:21.384Z",
+        "level": 1,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:44:31.341Z",
+        "createdAt": "2024-08-02T20:22:30.677Z",
+        "level": 1,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:11.260Z",
+        "createdAt": "2024-08-02T20:24:10.147Z",
+        "level": 1,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:41.441Z",
+        "createdAt": "2024-08-02T20:27:01.823Z",
+        "level": 1,
+        "pointId": "gFJqiYep8W1OwbFTueIM",
+        "pointName": "\u5929\u745e\u8def\u516c\u5712\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:12:09.063Z",
+        "createdAt": "2024-08-02T20:30:22.150Z",
+        "level": 1,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:15:26.468Z",
+        "createdAt": "2024-08-02T20:31:43.597Z",
+        "level": 1,
+        "pointId": "rSnhF4HYEnTG98p9E7To",
+        "pointName": "\u5929\u6c34\u570d\u516c\u5712\uff08\u897f\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:40:49.717Z",
+        "createdAt": "2024-08-02T20:49:43.805Z",
+        "level": 2,
+        "pointId": "bCr9LBCAj1mIDzHk63Iz",
+        "pointName": "\u5929\u83ef\u6a4b"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T20:53:43.491Z",
+        "level": 2,
+        "pointId": "zm9JjBWHejS6bInoC32d",
+        "pointName": "\u5929\u83ef\u5929\u6a4b\u6a13\u68af"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:15:26.468Z",
+        "createdAt": "2024-08-02T20:58:14.060Z",
+        "level": 2,
+        "pointId": "rSnhF4HYEnTG98p9E7To",
+        "pointName": "\u5929\u6c34\u570d\u516c\u5712\uff08\u897f\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:12:09.063Z",
+        "createdAt": "2024-08-02T20:58:32.389Z",
+        "level": 2,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:11.260Z",
+        "createdAt": "2024-08-02T21:01:14.785Z",
+        "level": 2,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:12:44.328Z",
+        "createdAt": "2024-08-02T21:05:09.019Z",
+        "level": 2,
+        "pointId": "xv6F5QsTKUVQasrDM5V5",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e00\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:11.260Z",
+        "createdAt": "2024-08-02T21:06:36.316Z",
+        "level": 2,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:44:31.341Z",
+        "createdAt": "2024-08-02T21:07:04.199Z",
+        "level": 2,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:41.441Z",
+        "createdAt": "2024-08-02T21:08:16.402Z",
+        "level": 2,
+        "pointId": "gFJqiYep8W1OwbFTueIM",
+        "pointName": "\u5929\u745e\u8def\u516c\u5712\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:41:43.053Z",
+        "createdAt": "2024-08-02T21:12:54.202Z",
+        "level": 2,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:40:49.717Z",
+        "createdAt": "2024-08-02T21:17:46.594Z",
+        "level": 2,
+        "pointId": "bCr9LBCAj1mIDzHk63Iz",
+        "pointName": "\u5929\u83ef\u6a4b"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:44:31.341Z",
+        "createdAt": "2024-08-02T21:20:34.646Z",
+        "level": 2,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:40:49.717Z",
+        "level": 3,
+        "pointId": "bCr9LBCAj1mIDzHk63Iz",
+        "pointName": "\u5929\u83ef\u6a4b"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:12:09.063Z",
+        "createdAt": "2024-08-02T21:40:56.120Z",
+        "level": 3,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:42:11.260Z",
+        "createdAt": "2024-08-02T21:41:01.262Z",
+        "level": 3,
+        "pointId": "Y54hD80CffPsd7hG6KZn",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e09\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T21:44:31.341Z",
+        "createdAt": "2024-08-02T21:41:08.423Z",
+        "level": 3,
+        "pointId": "MM12lHGWCtvCbQvMy29H",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u4e8c\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:41:43.053Z",
+        "level": 3,
+        "pointId": "yhDNSAU3ByPksCfmW3E3",
+        "pointName": "\u5929\u6cb3\u8def\u904a\u6a02\u5834\u6dbc\u4ead"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:15:26.468Z",
+        "createdAt": "2024-08-02T21:41:53.978Z",
+        "level": 3,
+        "pointId": "rSnhF4HYEnTG98p9E7To",
+        "pointName": "\u5929\u6c34\u570d\u516c\u5712\uff08\u897f\uff09"
+      },
+      {
+        "userId": "skc-4@example.com",
+        "userName": "\u5357\u8475\u4e2d\u5fc34\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:42:41.441Z",
+        "level": 3,
+        "pointId": "gFJqiYep8W1OwbFTueIM",
+        "pointName": "\u5929\u745e\u8def\u516c\u5712\u6dbc\u4ead"
+      }
+    ],
+    "level": 1,
+    "email": "skc-4@example.com",
+    "upgradedPoints": ["4", "1"],
+    "name": "\u5357\u8475\u4e2d\u5fc34\u968a"
+  },
+  "sw-1@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:35:06.177Z",
+        "createdAt": "2024-08-02T21:41:47.810Z",
+        "level": 2,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:00:21.126Z",
+        "createdAt": "2024-08-02T21:46:58.326Z",
+        "level": 2,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:13:59.701Z",
+        "level": 3,
+        "pointId": "778jzmzKpOvgRHIHcHms",
+        "pointName": "\u9e97\u6e56\u5c45"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:22:50.375Z",
+        "level": 3,
+        "pointId": "IeOJr7CsyHXad2DUL3n4",
+        "pointName": "\u6822\u6167\u8c6a\u5ef7\u9580\u53e3"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:26:55.806Z",
+        "level": 3,
+        "pointId": "YvzEAhiBhJrOstmGXoH3",
+        "pointName": "\u5929\u69ae\u8def\u6771"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:35:06.177Z",
+        "level": 3,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "sw-1@example.com",
+        "userName": "\u4e0a\u74b0\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:37:37.693Z",
+        "level": 3,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      }
+    ],
+    "level": 1,
+    "email": "sw-1@example.com",
+    "upgradedPoints": ["1", "2"],
+    "name": "\u4e0a\u74b0\u4e2d\u5fc3\u968a"
+  },
+  "sw-2@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:46:58.326Z",
+        "createdAt": "2024-08-02T20:23:05.036Z",
+        "level": 1,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:41:47.810Z",
+        "createdAt": "2024-08-02T20:27:41.262Z",
+        "level": 1,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:53:44.950Z",
+        "createdAt": "2024-08-02T20:33:32.115Z",
+        "level": 1,
+        "pointId": "778jzmzKpOvgRHIHcHms",
+        "pointName": "\u9e97\u6e56\u5c45"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:06:22.364Z",
+        "level": 2,
+        "pointId": "cWpn4JjGvqovfXr7L2rP",
+        "pointName": "\u5929\u57ce\u8def\u5929\u6a4b"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:15:07.643Z",
+        "level": 2,
+        "pointId": "ObC8rDBZIJcoRZJfBp1v",
+        "pointName": "\u5929\u6085\u5929\u6a4b"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:21:53.146Z",
+        "level": 2,
+        "pointId": "jUxLM67JkOsDpcvCvso1",
+        "pointName": "\u5929\u83ef\u5df4\u58eb\u7ad9"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:25:59.135Z",
+        "level": 2,
+        "pointId": "IkAECCDTwkvlAMt5lQZ4",
+        "pointName": "\u5929\u83ef\u5783\u573e\u7b52"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:28:19.730Z",
+        "level": 2,
+        "pointId": "4WvOcZ1x4sDSnEXete8m",
+        "pointName": "\u5929\u696d\u8def\u516c\u5712\uff08\u8868\uff09"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:44:16.441Z",
+        "level": 2,
+        "pointId": "kqK4XRQZ348HdJEaKjEd",
+        "pointName": "\u5929\u6674\u793e\u5340\u7d9c\u5408\u670d\u52d9\u5927\u6a13"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T21:46:55.562Z",
+        "level": 2,
+        "pointId": "zoKPwjKHPyiu0i6BtHmx",
+        "pointName": "\u5929\u696d\u8def\u516c\u5712\uff08\u88cf\uff09"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:12:09.063Z",
+        "level": 3,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      },
+      {
+        "userId": "sw-2@example.com",
+        "userName": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T22:15:26.468Z",
+        "level": 3,
+        "pointId": "rSnhF4HYEnTG98p9E7To",
+        "pointName": "\u5929\u6c34\u570d\u516c\u5712\uff08\u897f\uff09"
+      }
+    ],
+    "level": 1,
+    "email": "sw-2@example.com",
+    "upgradedPoints": ["2", "4"],
+    "name": "\u4e0a\u74b0/\u5c07\u8ecd\u6fb3\u4e2d\u5fc3\u968a"
+  },
+  "sy1@example.com": {
+    "capturedPoints": [
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T20:23:05.036Z",
+        "createdAt": "2024-08-02T20:14:55.939Z",
+        "level": 1,
+        "pointId": "0gHiSX9dMHkVpffFR9RU",
+        "pointName": "\u5929\u6c34\u570d\u9ad4\u80b2\u9928"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T20:27:41.262Z",
+        "createdAt": "2024-08-02T20:18:47.636Z",
+        "level": 1,
+        "pointId": "Un4smPc0lSA8jpfvA5zJ",
+        "pointName": "\u5929\u6c34\u570d\u6e38\u6cf3\u6c60"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T20:33:32.115Z",
+        "createdAt": "2024-08-02T20:23:27.484Z",
+        "level": 1,
+        "pointId": "778jzmzKpOvgRHIHcHms",
+        "pointName": "\u9e97\u6e56\u5c45"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:06:22.364Z",
+        "createdAt": "2024-08-02T20:26:58.030Z",
+        "level": 1,
+        "pointId": "cWpn4JjGvqovfXr7L2rP",
+        "pointName": "\u5929\u57ce\u8def\u5929\u6a4b"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:25:59.135Z",
+        "createdAt": "2024-08-02T20:34:13.844Z",
+        "level": 1,
+        "pointId": "IkAECCDTwkvlAMt5lQZ4",
+        "pointName": "\u5929\u83ef\u5783\u573e\u7b52"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:28:19.730Z",
+        "createdAt": "2024-08-02T20:36:07.977Z",
+        "level": 1,
+        "pointId": "4WvOcZ1x4sDSnEXete8m",
+        "pointName": "\u5929\u696d\u8def\u516c\u5712\uff08\u8868\uff09"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:47:34.150Z",
+        "createdAt": "2024-08-02T20:41:07.714Z",
+        "level": 1,
+        "pointId": "45aLp8Tx5wGP606fx32M",
+        "pointName": "\u6167\u666f\u8ed2\u5df4\u58eb\u7ad9"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T22:33:31.782Z",
+        "createdAt": "2024-08-02T20:45:43.903Z",
+        "level": 1,
+        "pointId": "pbrw5fgRV2MRa5TDj7VB",
+        "pointName": "\u5929\u8475\u5929\u6a4b"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:53:49.592Z",
+        "createdAt": "2024-08-02T20:48:06.722Z",
+        "level": 1,
+        "pointId": "KlBjSjUv2OjIMppFsvHq",
+        "pointName": "\u6fd5\u5730\u516c\u5712\u9580\u53e3"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:09:45.157Z",
+        "createdAt": "2024-08-02T21:02:50.804Z",
+        "level": 2,
+        "pointId": "Jyj6CjyjsJi2bCuGoJEh",
+        "pointName": "\u5929\u6046\u90a8"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:34:23.792Z",
+        "createdAt": "2024-08-02T21:12:52.543Z",
+        "level": 2,
+        "pointId": "5FuPRNNQxn2MpCc3QxSq",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u516d\uff09"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:36:41.603Z",
+        "createdAt": "2024-08-02T21:20:04.381Z",
+        "level": 2,
+        "pointId": "cGkgDMMYwWfkNB0heYjM",
+        "pointName": "\u5929\u745e\u4fd3\uff08\u56db\uff09"
+      },
+      {
+        "userId": "sy1@example.com",
+        "userName": "\u77f3\u852d\u4e2d\u5fc3\u968a",
+        "expiredAt": "2024-08-02T21:40:56.120Z",
+        "createdAt": "2024-08-02T21:35:33.895Z",
+        "level": 3,
+        "pointId": "45ntnYbmnHBUIEyvTtNs",
+        "pointName": "\u5929\u745e\u793e\u5340\u4e2d\u5fc3"
+      }
+    ],
+    "level": 1,
+    "email": "sy1@example.com",
+    "upgradedPoints": ["3", "4"],
+    "name": "\u77f3\u852d\u4e2d\u5fc3\u968a"
+  }
+}
